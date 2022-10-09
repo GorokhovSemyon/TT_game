@@ -11,9 +11,13 @@ Go to the TT-game folder and enter in the terminal:
 ```
 $ make
 ```
-Run TT_game in the terminal:
+Run dynamic version TT_game in the terminal:
 ```
 $ ./TT_game
+```
+Run step by step version TT_game in the terminal:
+```
+$ ./TT_game_step_by_step
 ```
 ## Gameplay
 ### General
