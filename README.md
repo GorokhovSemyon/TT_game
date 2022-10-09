@@ -1,4 +1,4 @@
-# TT-game
+# Table tennis game (TT-game)
 It's a table tennis–themed twitch arcade sports video game - [Pong game](https://en.wikipedia.org/wiki/Pong) on C language for terminal Linux.
 
 ## Libraries for dynamic version
@@ -28,5 +28,5 @@ To skip step press `'Space'`, to enter next move press `'Enter'`
 > Since only one input stream is used, when holding the control keys of the racket or when pressing intensively, the racket can move for some time by "inertia".
 
 ### Gif from original Atari game "Pong"
-![pong_gif]()
+![pong_gif](https://github.com/GorokhovSemyon/TT_game/blob/develop/materials/pong-video-game.gif)
 
